@@ -1,2 +1,5 @@
 # AzureNetworkSecurityGroup-Python-AzureRestAPI
-Calling Azure REST API via python to create/update Azure Network Security Group (NSG) rules
+
+create or update the security rules of your Azure Network Security Group (NSG) using python and Azure REST API.
+
+Full article here: https://medium.com/@theko2fi/336bfe53794b
